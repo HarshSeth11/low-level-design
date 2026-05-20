@@ -1,5 +1,5 @@
 
-# Low Level Design - Strategy & Factory Pattern
+# Low Level Design
 
 This project was built to deeply understand Low Level Design concepts using Python.
 
