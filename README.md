@@ -180,5 +180,3 @@ This project helped in understanding:
 * Python
 * OOP
 * Design Patterns
-rtfolio.
-```
