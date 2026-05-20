@@ -1,14 +1,4 @@
-Here’s a good professional README for your current project.
 
-You can place this inside:
-
-```text id="w7m2qx"
-README.md
-```
-
----
-
-````md id="y4k8pn"
 # Low Level Design - Strategy & Factory Pattern
 
 This project was built to deeply understand Low Level Design concepts using Python.
@@ -190,18 +180,5 @@ This project helped in understanding:
 * Python
 * OOP
 * Design Patterns
-
-```
-
----
-
-# Small Recommendation
-
-After pasting:
-1. commit README,
-2. push to GitHub,
-3. add screenshots in repo,
-4. pin repo on GitHub profile.
-
-This already looks strong for a 2 YOE backend portfolio.
+rtfolio.
 ```
