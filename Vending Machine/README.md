@@ -299,20 +299,6 @@ python main.py
 
 ---
 
-## 🔮 Future Enhancements
-
-- Admin Mode
-- Restocking Products
-- Transaction History
-- Refund Support
-- Coupon System
-- Multi-Vendor Inventory
-- Database Integration
-- GUI Version
-- REST API Version using Django/FastAPI
-
----
-
 ## 👨‍💻 Author
 
 **Harsh Seth**
